@@ -1,0 +1,13 @@
+
+.git.backup.*
+
+# Session secrets and sensitive data
+data/session-secret.key
+data/.admin-seeded
+
+# Session and cookie files
+*.txt
+admin_cookies.txt
+final_admin_cookies.txt
+user_cookies.txt
+cookies.txt
